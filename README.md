@@ -3,9 +3,6 @@ Code and result about APFNet(IEEE TETCI)<br>
 'APNet: Adversarial-Learning-Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection' 
 ![image](https://user-images.githubusercontent.com/38373305/134764453-4db0e79f-77f2-448f-a32d-76c907fff0aa.png)
 
-![image](https://user-images.githubusercontent.com/38373305/134768670-ef364f98-bb95-4d2f-b794-81580d268c30.png)
-
-
 # Requirements
 Python 3.7, Pytorch 1.5.0+, Cuda 10.2, TensorboardX 2.1, opencv-python
 
