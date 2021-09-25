@@ -13,11 +13,11 @@ RGB-T SOD Datasets can be found in:  https://github.com/lz118/RGBT-Salient-Objec
 we use the matlab verison provide by [Dengping Fan](http://dpfan.net/d3netbenchmark/).
 
 # Result
-Test saliency maps in all datasets: [百度网盘](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
+Test saliency maps in all datasets:  [baidu pan](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
 
-The pretrained model can be downloaded at:[百度网盘](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
+The pretrained model can be downloaded at:  [baidu pan](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
 
-PS: we resize the testing data to the size of 224 * 224 for quicky evaluate, [百度网盘](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
+PS: we resize the testing data to the size of 224 * 224 for quicky evaluate, [baidu pan](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
 
 # Citation
 
