@@ -10,7 +10,7 @@ Python 3.7, Pytorch 1.5.0+, Cuda 10.2, TensorboardX 2.1, opencv-python
 # Dataset and Evaluate tools
 RGB-T SOD Datasets can be found in:  https://github.com/lz118/RGBT-Salient-Object-Detection <br>
 
-we use the matlab verison provide by [Dengping Fan](http://dpfan.net/d3netbenchmark/).
+Evaluate tools: we use the matlab verison provide by [Dengping Fan](http://dpfan.net/d3netbenchmark/).
 
 # Result
 Test saliency maps in all datasets:  [baidu pan](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
