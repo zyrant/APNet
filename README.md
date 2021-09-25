@@ -5,8 +5,8 @@ Code and result about APFNet(IEEE TETCI)<br>
 <center class = "half">
 <img src = “https://user-images.githubusercontent.com/38373305/134768650-5b0b40fc-9319-49c4-a283-720c9ec3bf35.png”  width = “50%” align = left><img src = “https://user-images.githubusercontent.com/38373305/134768658-532c4cff-44bd-42ab-8d5a-bd62ee4c2060.png”  width = “50%” align = right>
 </center>
-![image](https://user-images.githubusercontent.com/38373305/134768650-5b0b40fc-9319-49c4-a283-720c9ec3bf35.png)
-![image](https://user-images.githubusercontent.com/38373305/134768658-532c4cff-44bd-42ab-8d5a-bd62ee4c2060.png)
+
+
 ![image](https://user-images.githubusercontent.com/38373305/134768670-ef364f98-bb95-4d2f-b794-81580d268c30.png)
 
 
