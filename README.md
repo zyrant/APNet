@@ -21,7 +21,7 @@ The pretrained model can be downloaded at[APNet.pth]:  [baidu](https://pan.baidu
 PS: we resize the testing data to the size of 224 * 224 for quicky evaluate[GT for matlab], [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
 
 # Citation
-@ARTICLE{9583676,  author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Wan, Jian and Yu, Lu},  <br> journal={IEEE Transactions on Emerging Topics in Computational Intelligence},  <br>  title={APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection},  <br>  year={2021},  volume={},  <br> number={},  <br> pages={1-12},  <br> doi={10.1109/TETCI.2021.3118043}}
+@ARTICLE{9583676,  author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Wan, Jian and Yu, Lu},  <br> journal={IEEE Transactions on Emerging Topics in Computational Intelligence},  <br>  title={APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection},  <br>  year={2021},  <br> volume={},  <br> number={},  <br> pages={1-12},  <br> doi={10.1109/TETCI.2021.3118043}}
 # Acknowledgement
 The implement of this project is based on the code of ‘Cascaded Partial Decoder for Fast and Accurate Salient Object Detection, CVPR2019’and 'BBS-Net: RGB-D Salient Object Detection with a Bifurcated Backbone Strategy Network' proposed by Wu et al and Deng et al.
 
