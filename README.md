@@ -13,7 +13,7 @@ Evaluate tools: we use the matlab verison provide by [Dengping Fan](http://dpfan
 
 # Result
 ![image](https://user-images.githubusercontent.com/38373305/134769028-f40316ec-b586-4064-aaf0-bffc4b34d18f.png)
-**NEW**  We provide saliency maps of of all compared [methods](链接：https://pan.baidu.com/s/1Lk46vlh5DH26SwfvZSMDYw) in paper. 提取码：zust <br>
+*NEW*  We provide saliency maps of of all compared [methods](https://pan.baidu.com/s/1Lk46vlh5DH26SwfvZSMDYw) in paper. 提取码：zust <br>
 
 Test saliency maps in all datasets[predict]:  [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
 
