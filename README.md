@@ -1,5 +1,5 @@
 # APNet
-Code and result about APNet(IEEE TETCI)<br>
+Code and result about APNet([IEEE TETCI](https://ieeexplore.ieee.org/document/9583676))<br>
 'APNet: Adversarial-Learning-Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection' 
 ![image](https://user-images.githubusercontent.com/38373305/134764453-4db0e79f-77f2-448f-a32d-76c907fff0aa.png)
 
