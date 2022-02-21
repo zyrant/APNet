@@ -13,13 +13,13 @@ Evaluate tools: we use the matlab verison provide by [Dengping Fan](http://dpfan
 
 # Result
 ![image](https://user-images.githubusercontent.com/38373305/134769028-f40316ec-b586-4064-aaf0-bffc4b34d18f.png)
-*NEW*： We provide saliency maps of of all compared methods in paper.  [baidu](https://pan.baidu.com/s/1Lk46vlh5DH26SwfvZSMDYw) 提取码：zust <br>
+*NEW*： We provide saliency maps of of all compared methods in paper.  [baidu](https://pan.baidu.com/s/1Lk46vlh5DH26SwfvZSMDYw) 提取码：zust  or [Google drive](https://drive.google.com/drive/folders/1yn2SHyfrMFn5GAbYom2EIxgdaj4CEwb9?usp=sharing)<br>
 
-Test saliency maps in all datasets[predict]:  [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
+Test saliency maps in all datasets[predict]:  [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r or [Google drive](https://drive.google.com/drive/folders/1zfYVEMf3rGRTa2yAWfZXWHPwaq_A6PIK?usp=sharing) <br>
 
-The pretrained model can be downloaded at[APNet.pth]:  [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
+The pretrained model can be downloaded at[APNet.pth]:  [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r or [Google drive](https://drive.google.com/drive/folders/1zfYVEMf3rGRTa2yAWfZXWHPwaq_A6PIK?usp=sharing) <br>
 
-PS: we resize the testing data to the size of 224 * 224 for quicky evaluate[GT for matlab], [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r <br>
+PS: we resize the testing data to the size of 224 * 224 for quicky evaluate[GT for matlab], [baidu](https://pan.baidu.com/s/1bmlNxOvZkaiwc4EwqY1Nlw)  提取码：vy3r or [Google drive](https://drive.google.com/drive/folders/1zfYVEMf3rGRTa2yAWfZXWHPwaq_A6PIK?usp=sharing)<br>
 
 # Citation
 @ARTICLE <br> {9583676,  author={Zhou, Wujie and Zhu, Yun and Lei, Jingsheng and Wan, Jian and Yu, Lu},  <br> journal={IEEE Transactions on Emerging Topics in Computational Intelligence},  <br>  title={APNet: Adversarial Learning Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection},  <br>  year={2021},  <br> volume={},  <br> number={},  <br> pages={1-12},  <br> doi={10.1109/TETCI.2021.3118043}}
